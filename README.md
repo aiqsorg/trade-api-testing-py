@@ -1,2 +1,5 @@
 # trade-api-testing-py
-Familiarziation with the Moomoo Brokerage Trading APIs in Python
+ with the Moomoo Brokerage Trading APIs in Python
+
+
+Initial installation: Windows: pip install moomoo-api, Linux/Mac  pip3 install moomoo-api.
